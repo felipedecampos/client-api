@@ -16,6 +16,7 @@ use Psr\Log\LoggerInterface;
  * A simple class to make API requests
  *
  * @package Application\External\Api
+ * @author Felipe de Campos <felipe.campos.programador@gmail.com>
  */
 class Client
 {
