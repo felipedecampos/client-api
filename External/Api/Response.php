@@ -6,7 +6,7 @@ use Psr\Http\Message\ResponseInterface as PsrResponseInterface;
 
 /**
  * Class Response
- * @package Application\External\Mec
+ * @package Application\External\Api
  * @author Felipe de Campos <felipe.campos.programador@gmail.com>
  */
 class Response implements ResponseInterface
